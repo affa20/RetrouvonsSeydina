@@ -1,0 +1,33 @@
+//{
+//  "name": "SignalementPersonne",
+//  "short_name": "SignalementPersonne",
+//  "id": "./",
+//  "start_url": "./",
+//  "display": "standalone",
+//  "background_color": "#ffffff",
+//  "theme_color": "#03173d",
+//  "prefer_related_applications": false,
+//  "icons": [
+//    {
+//      "src": "icon-512.png",
+//      "type": "image/png",
+//      "sizes": "512x512"
+//    },
+//    {
+//      "src": "icon-192.png",
+//      "type": "image/png",
+//      "sizes": "192x192"
+//    }
+//  ]
+//}
+
+{
+  "name": "Retrouvons Seydina",
+  "short_name": "Seydina",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0078d4",
+  "description": "Application pour signaler une personne disparue à Dakar."
+}
+
